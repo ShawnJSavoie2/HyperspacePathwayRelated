@@ -77,7 +77,6 @@ if __name__ == '__main__':
         AccelerationRate = I.AccelerationRate(FinalVelocity, TravelDistance, TravelTime)
         for key, value in AccelerationRate.items():
             print(key, value)
-        #print(AccelerationRate)
         print()
         Answer = input('Would you like to keep using this program? ')
         if 'No' in Answer or 'no' in Answer or 'N' in Answer or 'n' in Answer:
