@@ -82,7 +82,3 @@ if __name__ == '__main__':
         Answer = input('Would you like to keep using this program? ')
         if 'No' in Answer or 'no' in Answer or 'N' in Answer or 'n' in Answer:
             break
-
-        
-# 0.42936523214540525
-# 0.583 (7 m)
